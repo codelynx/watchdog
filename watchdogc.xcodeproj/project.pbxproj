@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		CCA773E4266CDAB70068251E /* watchdogc */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = watchdogc; sourceTree = BUILT_PRODUCTS_DIR; };
 		CCA773E7266CDAB70068251E /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		CCA773EE266CDAFD0068251E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +42,7 @@
 		CCA773DB266CDAB70068251E = {
 			isa = PBXGroup;
 			children = (
+				CCA773EE266CDAFD0068251E /* README.md */,
 				CCA773E6266CDAB70068251E /* watchdogc */,
 				CCA773E5266CDAB70068251E /* Products */,
 			);
