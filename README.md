@@ -5,7 +5,7 @@ This project demonstrates how to develop a command line tool for macOS in Swift.
 ### Usage
 
 ```
-commander --watch ~/Desktop
+watchdogc --watch ~/Desktop
 ```
 
 ### License
